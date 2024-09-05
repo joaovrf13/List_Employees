@@ -1,0 +1,15 @@
+C:\Users\joaov\source\Csharp\list_employees\bin\Debug\net8.0\list_employees.exe
+C:\Users\joaov\source\Csharp\list_employees\bin\Debug\net8.0\list_employees.deps.json
+C:\Users\joaov\source\Csharp\list_employees\bin\Debug\net8.0\list_employees.runtimeconfig.json
+C:\Users\joaov\source\Csharp\list_employees\bin\Debug\net8.0\list_employees.dll
+C:\Users\joaov\source\Csharp\list_employees\bin\Debug\net8.0\list_employees.pdb
+C:\Users\joaov\source\Csharp\list_employees\obj\Debug\net8.0\list_employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\source\Csharp\list_employees\obj\Debug\net8.0\list_employees.AssemblyInfoInputs.cache
+C:\Users\joaov\source\Csharp\list_employees\obj\Debug\net8.0\list_employees.AssemblyInfo.cs
+C:\Users\joaov\source\Csharp\list_employees\obj\Debug\net8.0\list_employees.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\Csharp\list_employees\obj\Debug\net8.0\list_employees.sourcelink.json
+C:\Users\joaov\source\Csharp\list_employees\obj\Debug\net8.0\list_employees.dll
+C:\Users\joaov\source\Csharp\list_employees\obj\Debug\net8.0\refint\list_employees.dll
+C:\Users\joaov\source\Csharp\list_employees\obj\Debug\net8.0\list_employees.pdb
+C:\Users\joaov\source\Csharp\list_employees\obj\Debug\net8.0\list_employees.genruntimeconfig.cache
+C:\Users\joaov\source\Csharp\list_employees\obj\Debug\net8.0\ref\list_employees.dll
